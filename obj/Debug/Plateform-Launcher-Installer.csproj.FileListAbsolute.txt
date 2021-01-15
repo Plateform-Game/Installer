@@ -1,0 +1,16 @@
+C:\Users\Juliano Mandrillon\source\repos\Plateform-Launcher-Installer\bin\Debug\Plateform_Launcher_Installer.exe.config
+C:\Users\Juliano Mandrillon\source\repos\Plateform-Launcher-Installer\bin\Debug\Plateform_Launcher_Installer.exe
+C:\Users\Juliano Mandrillon\source\repos\Plateform-Launcher-Installer\bin\Debug\Plateform_Launcher_Installer.pdb
+C:\Users\Juliano Mandrillon\source\repos\Plateform-Launcher-Installer\obj\Debug\Plateform-Launcher-Installer.csprojAssemblyReference.cache
+C:\Users\Juliano Mandrillon\source\repos\Plateform-Launcher-Installer\obj\Debug\Plateform_Launcher_Installer.Form1.resources
+C:\Users\Juliano Mandrillon\source\repos\Plateform-Launcher-Installer\obj\Debug\Plateform_Launcher_Installer.Properties.Resources.resources
+C:\Users\Juliano Mandrillon\source\repos\Plateform-Launcher-Installer\obj\Debug\Plateform-Launcher-Installer.csproj.GenerateResource.cache
+C:\Users\Juliano Mandrillon\source\repos\Plateform-Launcher-Installer\obj\Debug\Plateform-Launcher-Installer.csproj.CoreCompileInputs.cache
+C:\Users\Juliano Mandrillon\source\repos\Plateform-Launcher-Installer\obj\Debug\Plateform_Launcher_Installer.exe
+C:\Users\Juliano Mandrillon\source\repos\Plateform-Launcher-Installer\obj\Debug\Plateform_Launcher_Installer.pdb
+C:\Users\Juliano Mandrillon\source\repos\Plateform-Launcher-Installer\obj\Debug\Plateform_Launcher_Installer.Install.resources
+C:\Users\Juliano Mandrillon\source\repos\Plateform-Launcher-Installer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juliano Mandrillon\source\repos\Plateform-Launcher-Installer\bin\Debug\RestSharp.dll
+C:\Users\Juliano Mandrillon\source\repos\Plateform-Launcher-Installer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juliano Mandrillon\source\repos\Plateform-Launcher-Installer\bin\Debug\RestSharp.xml
+C:\Users\Juliano Mandrillon\source\repos\Plateform-Launcher-Installer\obj\Debug\Plateform-Launcher-Installer.csproj.CopyComplete
